@@ -1,0 +1,42 @@
+@import "gameCover";
+@import "banner";
+
+@font-face {
+  font-family: Roboto;
+  src: url('fonts/Roboto-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  color: #FFFFFF;
+  font-family: Roboto, Arial;
+}
+
+header {
+  margin-bottom: 10px;
+
+  .header-title {
+    margin: 0 auto;
+    width: fit-content;
+    padding: 15px 0;
+    font-size: 50px;
+  }
+}
+
+.bg-dark {
+  background: #151820;
+}
+
+footer {
+  background: #161a23;
+
+  a {
+    display: block;
+    width: fit-content;
+  }
+}
+
+.game-link {
+  text-decoration: none !important;
+}

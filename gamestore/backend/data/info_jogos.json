@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "vendas": "35.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Rockstar"
+    },
+    {
+        "id": 2,
+        "vendas": "35.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Rockstar"
+    },
+    {
+        "id": 3,
+        "vendas": "35.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Rockstar"
+    },
+    {
+        "id": 4,
+        "vendas": "35.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Rockstar"
+    },
+    {
+        "id": 5,
+        "vendas": "35.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Rockstar"
+    },
+    {
+        "id": 6,
+        "vendas": "35.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Rockstar"
+    },
+    {
+        "id": 7,
+        "vendas": "35.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Rockstar"
+    },
+    {
+        "id": 8,
+        "vendas": "35.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Rockstar"
+    },
+    {
+        "id": 9,
+        "vendas": "35.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Rockstar"
+    },
+    {
+        "id": 10,
+        "vendas": "35.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Rockstar"
+    },
+    {
+        "id": 11,
+        "vendas": "35.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Riot Games"
+    },
+    {
+        "id": 12,
+        "vendas": "1.043",
+        "dataLancamento": "12/01/2020",
+        "valorMaisBarato": "20,99",
+        "plataformas": "XBOX, Playstation, PC",
+        "resolucao": "4K, 8K",
+        "desenvolvedora": "Riot Games"
+    }
+]

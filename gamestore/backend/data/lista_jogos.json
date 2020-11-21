@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "titulo": "CSGO",
+        "preco": "23,00",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "imgUrl": "https://bit.ly/33F45Rh",
+        "imgsExemplo": [
+            "https://bit.ly/2GYiPms",
+            "https://bit.ly/2GYiPms",
+            "https://bit.ly/2GYiPms",
+            "https://bit.ly/2GYiPms"
+        ],
+        "destaque": true
+    },
+    {
+        "id": 2,
+        "titulo": "The Last Of Us",
+        "preco": "113,50",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "https://bit.ly/2Rrfiir"
+    },
+    {
+        "id": 3,
+        "titulo": "Jumanji",
+        "preco": "24,00",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "https://bit.ly/3bUS91b"
+    },
+    {
+        "id": 4,
+        "titulo": "The Last Of Us",
+        "preco": "113,50",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "https://bit.ly/2Rrfiir"
+    },
+    {
+        "id": 5,
+        "titulo": "Jumanji",
+        "preco": "24,00",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "https://bit.ly/3bUS91b"
+    },
+    {
+        "id": 6,
+        "titulo": "The Last Of Us",
+        "preco": "113,50",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "https://bit.ly/2Rrfiir"
+    },
+    {
+        "id": 7,
+        "titulo": "Jumanji",
+        "preco": "24,00",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "https://bit.ly/3bUS91b"
+    },
+    {
+        "id": 8,
+        "titulo": "The Last Of Us",
+        "preco": "113,50",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "https://bit.ly/2Rrfiir"
+    },
+    {
+        "id": 9,
+        "titulo": "Jumanji",
+        "preco": "24,00",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "https://bit.ly/3bUS91b"
+    },
+    {
+        "id": 10,
+        "titulo": "The Last Of Us",
+        "preco": "113,50",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "https://bit.ly/2Rrfiir"
+    },
+    {
+        "id": 11,
+        "titulo": "Need For Speed",
+        "preco": "42,00",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "https://store-images.s-microsoft.com/image/apps.16220.63922543011545658.b811c016-7bf5-44e1-8dbe-39de98149fe7.5dc8877c-676e-4cd8-b12e-7d04448fec7a"
+    },
+    {
+        "id": 12,
+        "titulo": "The Last Of Us 2",
+        "preco": "200,00",
+        "descricao": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imgUrl": "https://bit.ly/2Rrfiir"
+    }
+]

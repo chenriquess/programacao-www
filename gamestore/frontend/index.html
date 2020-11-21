@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Game Store</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+          integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body class="bg-dark">
+<header>
+    <div class="header-title">The Best Game Store</div>
+</header>
+
+<!--container-->
+<div class="container-fluid">
+    <div class="container">
+
+        <div class="row no-gutters mb-5 banners" id="destaque"></div>
+        <div class="row mb-5" id="rowJogos"></div>
+
+        </div>
+    </div>
+
+    <footer>
+        <div class="container py-5">
+            <div class="row">
+                <div class="col">
+                    <p>Game Store Inc</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <a href="#">Envie Sugestões</a>
+                    <a href="#">Fale Conosco</a>
+                    <a href="#">SAC</a>
+                    <a href="#">Localização</a>
+                </div>
+
+                <div class="col">
+                    <a href="#">Reembolsos</a>
+                    <a href="#">Termos Legais</a>
+                    <a href="#">Políticas de Privacidade</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</div>
+
+<div class="modal fade" id="modalJogo" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel"></h5>
+
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+
+            <div class="modal-body">
+            </div>
+
+            <div class="modal-footer">
+                <button class="btn btn-primary mx-auto text-light">Comprar</button>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+<script src="js/service.js"></script>
+
+</body>
+</html>
